@@ -1,6 +1,6 @@
 # web_services_script_python
 
-This script do the following tasks:
+This script does the following tasks:
 
 * Use the Python OS module to process a directory of text files
 * Manage information stored in Python dictionaries
